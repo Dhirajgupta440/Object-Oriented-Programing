@@ -1,4 +1,4 @@
-//c++ program to show function of call by value or reference
+//c++ program to show function of passing by value or reference
 #include <iostream>
 using namespace std;
 
