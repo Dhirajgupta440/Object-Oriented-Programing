@@ -1,4 +1,4 @@
-//c++ program to show function of call by pointer
+//c++ program to show function of passing by pointer
 #include <iostream>
 using namespace std;
 
